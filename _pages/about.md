@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.11* First Prize, NOIP (National Olympiad in Informatics in Provinces)
 
 # 📖 Educations
-- *2023.09 - Present*, Bachelor's Degree, University of Science and Technology of China.
+- *2023.09 - Present*, Undergraduate, University of Science and Technology of China.
 
 # 💻 Internships
 - *2025.07 - 2025.09*, Intern at the University of Chicago, supervised by Prof. Kexin Pei.
