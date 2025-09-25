@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuechun Sun, a student of the 2023 class in the School for the Gifted Young at the University of Science and Technology of China, majoring in Big Data. I am currently supervised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei</a> and Prof. <a href='https://iat.ustc.edu.cn/iat/x223/20200321/2374.html'>Lan Zhang</a>. My research interests include Artificial Intelligence, Programming Language, and Inference.
+I am Yuechun Sun, a student of the 2023 class in the School for the Gifted Young at the University of Science and Technology of China, majoring in Big Data. I am currently supervised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei</a> and Prof. <a href='https://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm'>Lan Zhang</a>. My research interests include Artificial Intelligence, Programming Language, and Inference.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -28,8 +28,8 @@ I am Yuechun Sun, a student of the 2023 class in the School for the Gifted Young
 
 # 📝 Publications 
 
-- [Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems](https://github.com), Tuo Zhang\*, **Yuechun Sun\***, Ruiliang Liu, **ICCV 2025 Workshop**
-- [Don't Recompute It All: Taming Model Update Overheads in Mobile AI Systems](https://github.com), **Yuechun Sun**, Mu Yuan, Lan Zhang, **ANAI@mobicom**
+- Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems, Tuo Zhang\*, **Yuechun Sun\***, Ruiliang Liu, [ArtMetrics@ICCV2025](https://theartmetrics.github.io/2025/)
+- Don't Recompute It All: Taming Model Update Overheads in Mobile AI Systems, **Yuechun Sun**, Mu Yuan, Lan Zhang, [ANAI@MobiCom2025](https://anai.cuhkaiot.com/2025/index.html)
 
 
 # 🎖 Honors and Awards
