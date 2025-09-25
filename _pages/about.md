@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuechun Sun, a student of the 2023 class in the School for the Gifted Young at the University of Science and Technology of China, majoring in Big Data. I am currently supervised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei</a> and Prof. <a href='https://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm'>Lan Zhang</a>. My research interests include Artificial Intelligence, Programming Language, and Inference.
+I am Yuechun Sun, an 18-year-old undergraduate at the School of the Gifted Young, University of Science and Technology of China (USTC), majoring in Data Science and Big Data Technology. I am currently advised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei (University of Chicago)</a> and Prof. <a href='https://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm'>Lan Zhang</a> (USTC). My research interests include Artificial Intelligence, Programming Language, and Inference.
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
