@@ -34,10 +34,12 @@ I am Yuechun Sun, an 18-year-old undergraduate at the School of the Gifted Young
 
 - Tuo Zhang\*, **Yuechun Sun\***, Ruiliang Liu, "Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems", in ArtMetrics Workshop at the International Conference on Computer Vision, [ArtMetrics@ICCV2025](https://theartmetrics.github.io/2025/)
 
+- Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", submitted to the International Conference on Object-Oriented Programming Systems, Languages, and Applications, [OOPSLA2026](https://conf.researchr.org/track/splash-2026/oopsla-2026)
 
 
 
 # 🎖 Honors and Awards
+- *2025.11* Yanbao Scholarship, CNY 10,000 (top 1%)
 - *2024.11* Silver Medal, ICPC (International Collegiate Programming Contest)
 - *2024.11* Silver Medal, CCPC (China Collegiate Programming Contest)
 - *2024.09* Provincial First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
