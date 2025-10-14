@@ -38,7 +38,7 @@ I am Yuechun Sun, an 18-year-old undergraduate at the School of the Gifted Young
 
 
 # 🎖 Honors and Awards
-- *2025.11* Yanbao Scholarship, CNY 10,000 (top 1%)
+- *2025.10* Yanbao Scholarship, CNY 10,000 (top 1%)
 - *2024.11* Silver Medal, ICPC (International Collegiate Programming Contest)
 - *2024.11* Silver Medal, CCPC (China Collegiate Programming Contest)
 - *2024.09* Provincial First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
