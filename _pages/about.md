@@ -29,11 +29,12 @@ I am Yuechun Sun, an 18-year-old undergraduate at the School of the Gifted Young
 # 📝 Publications 
 <!-- format: "author name, "paper_name", in full_name_of_conference, [Conference](https://conference.link)" -->
 
+- Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", submitted to the International Conference on Object-Oriented Programming Systems, Languages, and Applications, [OOPSLA2026](https://conf.researchr.org/track/splash-2026/oopsla-2026)
+
+
 - **Yuechun Sun**, Mu Yuan, Lan Zhang, "Don't Recompute It All: Taming Model Update Overheads in Mobile AI Systems", in ACM Workshop on Access Networks with Artificial Intelligence at the International Conference on Mobile Computing and Networking, [ANAI@MobiCom2025](https://anai.cuhkaiot.com/2025/index.html)
 
 - Tuo Zhang\*, **Yuechun Sun\***, Ruiliang Liu, "Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems", in ArtMetrics Workshop at the International Conference on Computer Vision, [ArtMetrics@ICCV2025](https://theartmetrics.github.io/2025/)
-
-- Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", submitted to the International Conference on Object-Oriented Programming Systems, Languages, and Applications, [OOPSLA2026](https://conf.researchr.org/track/splash-2026/oopsla-2026)
 
 
 
