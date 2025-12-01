@@ -6,6 +6,9 @@
 
   <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% if author.photo_credit %}
+    <div style="text-align: center; font-size: 0.75em; color: #7a8288; margin-top: 0.5em; font-style: italic;">{{ author.photo_credit }}</div>
+    {% endif %}
   </div>
 
   <div class="author__content">
