@@ -30,8 +30,9 @@ I am Yuechun Sun, an 18-year-old undergraduate at the School of the Gifted Young
 # 📝 Publications 
 <!-- format: "author name, "paper_name", in full_name_of_conference, [Conference](https://conference.link)" -->
 
-- Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", submitted to the International Conference on Object-Oriented Programming Systems, Languages, and Applications, [OOPSLA2026](https://conf.researchr.org/track/splash-2026/oopsla-2026) [[PDF](papers/exverus-oopsla2026.pdf)]
+- Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", Under Review, 2026. [[PDF](papers/ExVerus.pdf)]
 
+- **Yuechun Sun**, Shengxue Li, Mu Yuan, Lan Zhang "PURE: Efficient Update-Aware Inference via Uncertainty Prediction-Based Input Filtering", Under Review, 2026. [[PDF](papers/PURE.pdf)]
 
 - **Yuechun Sun**, Mu Yuan, Lan Zhang, "Don't Recompute It All: Taming Model Update Overheads in Mobile AI Systems", in ACM Workshop on Access Networks with Artificial Intelligence at the International Conference on Mobile Computing and Networking, [ANAI@MobiCom2025](https://anai.cuhkaiot.com/2025/index.html)
 
