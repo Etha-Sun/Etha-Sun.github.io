@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuechun Sun's Homepage"
-description              : "Yuechun Sun's personal academic homepage. Undergraduate student at USTC. Research interests include LLM and formal verification."
+description              : "Research interests include LLM and Formal Verification."
 url                      : "https://etha-sun.github.io"
 repository               : "Etha-Sun/Etha-Sun.github.io"
 google_scholar_stats_use_cdn : true
