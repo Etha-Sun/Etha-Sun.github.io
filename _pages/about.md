@@ -24,8 +24,8 @@ I am Yuechun Sun, an 18-year-old undergraduate at the School of the Gifted Young
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Awarded the SGY Class of 87 Innovation Scholarship (CNY 9,000), one of only three recipients in the School of the Gifted Young.
-- *2025.10*: &nbsp;🎉🎉 Awarded the Yanbao Scholarship (CNY 10,000), one of only ten recipients in the School of the Gifted Young.
+- *2026.01*: &nbsp;🎉🎉 Awarded the SGY Class of 87 Innovation Scholarship, one of only three recipients in the School of the Gifted Young.
+- *2025.10*: &nbsp;🎉🎉 Awarded the Yanbao Scholarship, one of only ten recipients in the School of the Gifted Young.
 
 # 📝 Publications 
 <!-- format: "author name, "paper_name", in full_name_of_conference, [Conference](https://conference.link)" -->
