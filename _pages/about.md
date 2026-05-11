@@ -29,9 +29,9 @@ I am Yuechun Sun, a third-year undergraduate at the School of the Gifted Young, 
 
 # 📝 Publications 
 <!-- format: "author name, "paper_name", in full_name_of_conference, [Conference](https://conference.link)" -->
-- Yuechun Sun, Jun Yang, Kexin Pei, "Curriculum proof repair with learned counterexamples", Under Review, 2026. [[PDF](papers/TopoVerus.pdf)]
+- **Yuechun Sun**, Jun Yang, Kexin Pei, "Curriculum proof repair with learned counterexamples", Under Review, 2026. [[PDF](papers/TopoVerus.pdf)]
 
-- Zhe Ye, Hantao Lou, Yuechun Sun, Peiyang Song, Zhengxu Yan, Timothe Kasriel, Qingyang Zhang, Kaiyu Yang, Soonho Kong, Jingxuan He, Dawn Song, “Verify0: Can AI Agents Build Formally Verified Software Repositories?”, Under Review, 2026.
+- Zhe Ye, Hantao Lou, **Yuechun Sun**, Peiyang Song, Zhengxu Yan, Timothe Kasriel, Qingyang Zhang, Kaiyu Yang, Soonho Kong, Jingxuan He, Dawn Song, “Verify0: Can AI Agents Build Formally Verified Software Repositories?”, Under Review, 2026.
 
 - Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", in the Forty-Third International Conference on Machine Learning, [ICML2026](https://icml.cc/Conferences/2026) [[PDF](https://arxiv.org/abs/2603.25810v2)]
 
