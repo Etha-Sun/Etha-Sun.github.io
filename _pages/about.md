@@ -24,6 +24,7 @@ I am Yuechun Sun, a third-year undergraduate at the School of the Gifted Young, 
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Awarded the Tsung-Dao Lee Scholarship, one of the three recipients among third-year students in the School of the Gifted Young.
 - *2026.01*: &nbsp;🎉🎉 Awarded the SGY Class of 87 Innovation Scholarship, one of only three recipients in the School of the Gifted Young.
 - *2025.10*: &nbsp;🎉🎉 Awarded the Yanbao Scholarship, one of only ten recipients in the School of the Gifted Young.
 
@@ -44,6 +45,7 @@ I am Yuechun Sun, a third-year undergraduate at the School of the Gifted Young, 
 
 
 # 🎖 Honors and Awards
+- *2026.06* Tsung-Dao Lee Scholarship (top 1%)
 - *2026.01* SGY Class of 87 Innovation Scholarship (top 0.3%)
 - *2025.10* Yanbao Scholarship (top 1%)
 - *2024.11* Silver Medal, ICPC (International Collegiate Programming Contest)
