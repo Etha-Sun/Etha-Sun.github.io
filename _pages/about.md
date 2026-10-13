@@ -36,7 +36,7 @@ I am Yuechun Sun, a fourth-year undergraduate at the School of the Gifted Young,
 
 - Zhe Ye\*, Hantao Lou\*, **Yuechun Sun\***, Peiyang Song, Zhengxu Yan, Timothe Kasriel, Qingyang Zhang, Kaiyu Yang, Soonho Kong, Jingxuan He, Dawn Song, "Vero: Can AI Agents Build Formally Verified Software Repositories?", in Fortieth Annual Conference on Neural Information Processing Systems, [NeurIPS2026](https://neurips.cc/Conferences/2026) [[PDF](https://arxiv.org/abs/2608.13522)] [[Website](https://vero.verina.io/)] [[Code](https://github.com/sunblaze-ucb/vero)]
 
-- Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", in the Forty-Third International Conference on Machine Learning, [ICML2026](https://icml.cc/Conferences/2026) [[PDF](https://arxiv.org/abs/2603.25810v2)] [[Code](https://github.com/claudeyj/exverus)]
+- Jun Yang, **Yuechun Sun**, Yi Wu, Rodrigo Caridad, Yongwei Yuan, Shan Lu, Kexin Pei, "ExVerus: Verus Proof Repair via Counterexamples Reasoning", in the Forty-Third International Conference on Machine Learning, [ICML2026](https://icml.cc/Conferences/2026) [[PDF](https://arxiv.org/abs/2603.25810v2)] [[Code](https://github.com/claudeyj/exverus)] [[Website](https://exverus-proof.github.io/)]
 
 - **Yuechun Sun**, Shengxue Li, Mu Yuan, Lan Zhang "PURE: Efficient Update-Aware Inference via Uncertainty Prediction-Based Input Filtering", Under Review, 2026. [[PDF](papers/PURE.pdf)]
 
