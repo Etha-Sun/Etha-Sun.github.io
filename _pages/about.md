@@ -17,7 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuechun Sun, a fourth-year undergraduate at the School of the Gifted Young, University of Science and Technology of China, majoring in Data Science and Big Data Technology. I am currently advised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei</a> (University of Chicago) and Prof. <a href='https://people.eecs.berkeley.edu/~akcheung/'>Alvin Cheung</a> (University of California, Berkeley). My research interests include language models and formal verification. <a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am Yuechun Sun, a senior undergraduate at the School of the Gifted Young, University of Science and Technology of China, majoring in Data Science and Big Data Technology. I am currently advised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei</a> (University of Chicago) and Prof. <a href='https://people.eecs.berkeley.edu/~akcheung/'>Alvin Cheung</a> (University of California, Berkeley). My research interests include language models and formal verification. <a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
+
+<!-- citation badge color/style preview; pick one then delete this block -->
+<p>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat-square"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=plastic"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-9cf?logo=Google%20Scholar&labelColor=fff&style=for-the-badge"></a>
+<br>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-60a5fa?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-93c5fd?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-38bdf8?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-2dd4bf?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-86efac?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-fcd34d?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-f9a8d4?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+<a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-c4b5fd?logo=Google%20Scholar&labelColor=f8fafc&style=flat"></a>
+</p>
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
