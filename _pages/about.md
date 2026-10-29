@@ -33,7 +33,8 @@ I am Yuechun Sun, a fourth-year undergraduate at the School of the Gifted Young,
 
 # 📝 Publications 
 <!-- format: "author name, "paper_name", in full_name_of_conference, [Conference](https://conference.link)" -->
-- **Yuechun Sun**, Jun Yang, Kexin Pei, "Curriculum proof repair with learned counterexamples", in Fortieth Annual Conference on Neural Information Processing Systems, [NeurIPS2026](https://neurips.cc/Conferences/2026) [[PDF](papers/TopoVerus.pdf)]
+- **Yuechun Sun**, Jun Yang, Kexin Pei, "Curriculum proof repair with learned counterexamples", in Fortieth Annual Conference on Neural Information Processing Systems, [NeurIPS2026](https://neurips.cc/Conferences/2026) [[PDF](papers/TopoVerus.pdf)] [[Website](https://topoverus.github.io/)] [[Code](https://github.com/Etha-Sun/Topoverus)] [[Model](https://huggingface.co/YuechunSun/TopoVerus-32B)]
+
 
 - Zhe Ye\*, Hantao Lou\*, **Yuechun Sun\***, Peiyang Song, Zhengxu Yan, Timothe Kasriel, Qingyang Zhang, Kaiyu Yang, Soonho Kong, Jingxuan He, Dawn Song, "Vero: Can AI Agents Build Formally Verified Software Repositories?", in Fortieth Annual Conference on Neural Information Processing Systems, [NeurIPS2026](https://neurips.cc/Conferences/2026) [[PDF](https://arxiv.org/abs/2608.13522)] [[Website](https://vero.verina.io/)] [[Code](https://github.com/sunblaze-ucb/vero)]
 
