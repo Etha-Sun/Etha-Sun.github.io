@@ -25,6 +25,7 @@ I am Yuechun Sun, a fourth-year undergraduate at the School of the Gifted Young,
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 TopoVerus and Vero are accepted to NeurIPS 2026.
+- *2026.09*: &nbsp;🎉🎉 Started my internship at Sky Lab, UC Berkeley.
 - *2026.09*: &nbsp;🎉🎉 Finally Awarded the National Scholarship.
 - *2026.06*: &nbsp;🎉🎉 Awarded the Tsung-Dao Lee Scholarship, one of the three recipients among third-year students in the School of the Gifted Young.
 - *2026.01*: &nbsp;🎉🎉 Awarded the SGY Class of 87 Innovation Scholarship, one of only three recipients in the School of the Gifted Young.
@@ -61,4 +62,6 @@ I am Yuechun Sun, a fourth-year undergraduate at the School of the Gifted Young,
 - *2023.09 - Present*, Undergraduate, University of Science and Technology of China.
 
 # 💻 Internships
+- *2026.09 - Present*, Intern at the University of California, Berkeley, advised by Prof. Alvin Cheung.
+- *2026.07 - 2026.09*, Intern at the University of Chicago, advised by Prof. Kexin Pei.
 - *2025.07 - 2025.09*, Intern at the University of Chicago, advised by Prof. Kexin Pei.
