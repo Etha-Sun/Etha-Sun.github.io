@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuechun Sun, a senior undergraduate at the School of the Gifted Young, University of Science and Technology of China, majoring in Data Science and Big Data Technology. I am currently advised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei</a> (University of Chicago) and Prof. <a href='https://people.eecs.berkeley.edu/~akcheung/'>Alvin Cheung</a> (University of California, Berkeley). My research interests include language models and formal verification. <a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-14-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
+I am Yuechun Sun, a senior undergraduate at the School of the Gifted Young, University of Science and Technology of China, majoring in Data Science and Big Data Technology. I am currently advised by Prof. <a href='https://sites.google.com/site/kexinpeisite/'>Kexin Pei</a> (University of Chicago) and Prof. <a href='https://people.eecs.berkeley.edu/~akcheung/'>Alvin Cheung</a> (University of California, Berkeley). My research interests include language models and formal verification. <a href='https://scholar.google.com/citations?user=FlE8Nb0AAAAJ'><img src="https://img.shields.io/badge/citations-16-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -33,7 +33,7 @@ I am Yuechun Sun, a senior undergraduate at the School of the Gifted Young, Univ
 
 # 📝 Publications 
 <!-- format: "author name, "paper_name", in full_name_of_conference, [Conference](https://conference.link)" -->
-- **Yuechun Sun**, Jun Yang, Kexin Pei, "Curriculum proof repair with learned counterexamples", in Fortieth Annual Conference on Neural Information Processing Systems, [NeurIPS2026](https://neurips.cc/Conferences/2026) [[PDF](papers/TopoVerus.pdf)] [[Website](https://topoverus.github.io/)] [[Code](https://github.com/Etha-Sun/Topoverus)] [[Model](https://huggingface.co/YuechunSun/TopoVerus-32B)]
+- **Yuechun Sun**, Jun Yang, Kexin Pei, "Curriculum proof repair with learned counterexamples", in Fortieth Annual Conference on Neural Information Processing Systems, [NeurIPS2026](https://neurips.cc/Conferences/2026) [[PDF](https://arxiv.org/pdf/2611.13627)] [[Website](https://topoverus.github.io/)] [[Code](https://github.com/Etha-Sun/Topoverus)] [[Model](https://huggingface.co/YuechunSun/TopoVerus-32B)]
 
 
 - Zhe Ye\*, Hantao Lou\*, **Yuechun Sun\***, Peiyang Song, Zhengxu Yan, Timothe Kasriel, Qingyang Zhang, Kaiyu Yang, Soonho Kong, Jingxuan He, Dawn Song, "Vero: Can AI Agents Build Formally Verified Software Repositories?", in Fortieth Annual Conference on Neural Information Processing Systems, [NeurIPS2026](https://neurips.cc/Conferences/2026) [[PDF](https://arxiv.org/abs/2608.13522)] [[Website](https://vero.verina.io/)] [[Code](https://github.com/sunblaze-ucb/vero)]
