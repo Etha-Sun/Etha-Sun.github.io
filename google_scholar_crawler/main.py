@@ -127,6 +127,18 @@ def fetch_openalex_work_by_arxiv(arxiv_id: str):
 
 
 def build_openalex_fallback(author_id: str, paper_config: dict, previous: dict):
+    # Prefer the last successful Google Scholar snapshot when available.
+    # OpenAlex counts often lag Scholar and should only fill gaps.
+    if previous and previous.get('source') == 'google_scholar' and previous.get('publications'):
+        reused = dict(previous)
+        reused['updated'] = datetime.now(timezone.utc).isoformat()
+        reused['source'] = 'google_scholar_cached'
+        reused['note'] = (
+            'Google Scholar blocked automated access; '
+            'reusing the last successful Google Scholar snapshot.'
+        )
+        return reused
+
     publications = {}
     total = 0
     for paper in paper_config.get('papers', []):
