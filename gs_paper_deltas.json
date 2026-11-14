@@ -1,0 +1,32 @@
+{
+  "updated": "2026-11-14T04:19:31.420787+00:00",
+  "source": "google_scholar_cached",
+  "citedby": 20,
+  "citedby_delta": 0,
+  "papers": {
+    "FlE8Nb0AAAAJ:d1gkVwhDpl0C": {
+      "title": "ExVerus: Verus Proof Repair via Counterexample Reasoning",
+      "num_citations": 13,
+      "previous_citations": 13,
+      "delta": 0
+    },
+    "FlE8Nb0AAAAJ:9yKSN-GCB0IC": {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "num_citations": 5,
+      "previous_citations": 5,
+      "delta": 0
+    },
+    "FlE8Nb0AAAAJ:u5HHmVD_uO8C": {
+      "title": "Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems",
+      "num_citations": 2,
+      "previous_citations": 2,
+      "delta": 0
+    },
+    "FlE8Nb0AAAAJ:u-x6o8ySG0sC": {
+      "title": "Don't Recompute It All: Taming Model Update Overheads in Mobile AI Systems",
+      "num_citations": 0,
+      "previous_citations": 0,
+      "delta": 0
+    }
+  }
+}
