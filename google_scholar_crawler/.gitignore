@@ -1,5 +1,8 @@
 *.json
+!papers.json
 .DS_Store
+debug*.html
+/results/
 /push.sh
 
 # Byte-compiled / optimized / DLL files

@@ -15,6 +15,38 @@
             return delta > 0 ? ' (↑+' + delta + ')' : ' (↓' + delta + ')';
         }
 
+        function normalizeTitle(title) {
+            return (title || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+        }
+
+        function findStats(data, paperId, titleHint) {
+            var paperStats = data['paper_stats'] || {};
+            var publications = data['publications'] || {};
+            if (paperId && paperStats[paperId]) {
+                return paperStats[paperId];
+            }
+            if (paperId && publications[paperId]) {
+                return {
+                    num_citations: publications[paperId]['num_citations'],
+                    delta: (paperStats[paperId] || {})['delta']
+                };
+            }
+            if (!titleHint) {
+                return null;
+            }
+            var needle = normalizeTitle(titleHint);
+            var entries = Object.keys(paperStats).map(function (id) {
+                return paperStats[id];
+            });
+            for (var i = 0; i < entries.length; i++) {
+                var candidate = normalizeTitle(entries[i]['title']);
+                if (candidate && (candidate.indexOf(needle) !== -1 || needle.indexOf(candidate) !== -1)) {
+                    return entries[i];
+                }
+            }
+            return null;
+        }
+
         function renderStats(data) {
             var totalCitation = data['citedby'];
             var totalDelta = data['citedby_delta'];
@@ -28,20 +60,15 @@
                 badgeImg.src = 'https://img.shields.io/badge/citations-' + encodeURIComponent(String(totalCitation)) + '-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat';
             }
 
-            var paperStats = data['paper_stats'] || {};
-            var publications = data['publications'] || {};
             var citationEles = document.getElementsByClassName('show_paper_citations');
             Array.prototype.forEach.call(citationEles, function (element) {
                 var paperId = element.getAttribute('data');
-                var stats = paperStats[paperId] || publications[paperId];
-                if (!stats) {
+                var titleHint = element.getAttribute('data-title');
+                var stats = findStats(data, paperId, titleHint);
+                if (!stats || stats['num_citations'] === undefined || stats['num_citations'] === null) {
                     return;
                 }
-                var numCitations = stats['num_citations'];
-                if (numCitations === undefined || numCitations === null) {
-                    return;
-                }
-                element.innerHTML = '| Citations: ' + numCitations + formatDelta(stats['delta']);
+                element.innerHTML = '| Citations: ' + stats['num_citations'] + formatDelta(stats['delta']);
             });
         }
 

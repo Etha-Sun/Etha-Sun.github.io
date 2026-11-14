@@ -1,0 +1,35 @@
+{
+  "author_id": "FlE8Nb0AAAAJ",
+  "papers": [
+    {
+      "key": "topoverus",
+      "title": "Curriculum proof repair with learned counterexamples",
+      "arxiv": "2611.13627",
+      "scholar_pub_id": null
+    },
+    {
+      "key": "vero",
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "arxiv": "2608.13522",
+      "scholar_pub_id": "FlE8Nb0AAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "key": "exverus",
+      "title": "ExVerus: Verus Proof Repair via Counterexample Reasoning",
+      "arxiv": "2603.25810",
+      "scholar_pub_id": "FlE8Nb0AAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "key": "provenance",
+      "title": "Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems",
+      "arxiv": "2509.20769",
+      "scholar_pub_id": "FlE8Nb0AAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "key": "dont-recompute",
+      "title": "Don't Recompute It All: Taming Model Update Overheads in Mobile AI Systems",
+      "arxiv": null,
+      "scholar_pub_id": "FlE8Nb0AAAAJ:u-x6o8ySG0sC"
+    }
+  ]
+}
