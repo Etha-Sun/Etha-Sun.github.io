@@ -25,13 +25,20 @@ jobs:
       - name: Fetch previous citation stats
         continue-on-error: true
         run: |
-          git fetch origin google-scholar-stats:google-scholar-stats || true
           mkdir -p google_scholar_crawler/previous_stats
-          if git show google-scholar-stats:gs_data.json > google_scholar_crawler/previous_stats/gs_data.json 2>/dev/null; then
+          if curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/google-scholar-stats/gs_data.json" \
+            -o google_scholar_crawler/previous_stats/gs_data.json; then
             echo "Loaded previous gs_data.json"
+            python -c "import json; d=json.load(open('google_scholar_crawler/previous_stats/gs_data.json')); print('previous source=', d.get('source'), 'citedby=', d.get('citedby'))"
+          else
+            echo "No previous gs_data.json found"
+            rm -f google_scholar_crawler/previous_stats/gs_data.json
           fi
-          if git show google-scholar-stats:gs_history.json > google_scholar_crawler/previous_stats/gs_history.json 2>/dev/null; then
+          if curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/google-scholar-stats/gs_history.json" \
+            -o google_scholar_crawler/previous_stats/gs_history.json; then
             echo "Loaded previous gs_history.json"
+          else
+            rm -f google_scholar_crawler/previous_stats/gs_history.json
           fi
 
       - name: Set up Python
