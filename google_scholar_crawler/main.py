@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 RESULTS_DIR = Path('results')
 HISTORY_FILE = RESULTS_DIR / 'gs_history.json'
 PAPERS_FILE = Path('papers.json')
-PREVIOUS_DIR = Path('../previous_stats')
+PREVIOUS_DIR = Path('previous_stats')
 USER_AGENT_MAILTO = 'CitationBot/1.0 (mailto:sunyuechun@mail.ustc.edu.cn)'
 
 
